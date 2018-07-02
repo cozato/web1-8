@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igaguriShoot.Plugins", "igaguriShoot.Plugins.csproj", "{AB536100-826B-93AB-6433-EED607CCE88B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igaguriShoot", "igaguriShoot.csproj", "{E53FD749-72A4-3E73-5AF4-6EF83573DE5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igaguriShoot.Editor.Plugins", "igaguriShoot.Editor.Plugins.csproj", "{F24A9789-C565-2515-A800-4F42294F19F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB536100-826B-93AB-6433-EED607CCE88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB536100-826B-93AB-6433-EED607CCE88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB536100-826B-93AB-6433-EED607CCE88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB536100-826B-93AB-6433-EED607CCE88B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53FD749-72A4-3E73-5AF4-6EF83573DE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53FD749-72A4-3E73-5AF4-6EF83573DE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53FD749-72A4-3E73-5AF4-6EF83573DE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53FD749-72A4-3E73-5AF4-6EF83573DE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F24A9789-C565-2515-A800-4F42294F19F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F24A9789-C565-2515-A800-4F42294F19F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F24A9789-C565-2515-A800-4F42294F19F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F24A9789-C565-2515-A800-4F42294F19F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
